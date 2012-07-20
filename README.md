@@ -1,4 +1,9 @@
-prezi-legang
-============
+le Gang
+=======
 
-leGang
+Tis repo contains:
+
+Backend
+-------
+
+* HUBOT - /hubot
