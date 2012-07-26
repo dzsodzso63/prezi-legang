@@ -3,11 +3,15 @@ le Gang
 
 Tis repo contains:
 
-Backend
--------
 
-* leBot - /hubot
-  Our communication backend
+leBot - [/hubot](hubot)
+-----------------------
 
-* Web app - /legang-app
-  Our express.js app, runs on node.js see: /legang-app/README.md
+   Our communication backend
+
+
+
+Web app - [/legang-app](legang-app)
+-----------------------------------
+
+   Our express.js app, runs on node.js (Hosted on [Heroku](http://heroku.com))
