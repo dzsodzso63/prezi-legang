@@ -1,7 +1,7 @@
 le Gang
 =======
 
-Tis repo contains:
+This repo contains:
 
 
 leBot - [/hubot](hubot)
