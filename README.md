@@ -6,4 +6,8 @@ Tis repo contains:
 Backend
 -------
 
-* HUBOT - /hubot
+* leBot - /hubot
+  Our communication backend
+
+* Web app - /legang-app
+  Our express.js app, runs on node.js see: /legang-app/README.md
